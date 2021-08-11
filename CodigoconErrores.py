@@ -1,5 +1,1 @@
-import math
-
-a=4 # variable
-  
-
+a = 4  # variable
