@@ -1,4 +1,5 @@
 import math
+# ERR3 -1.5 Repitieron condicion de error
 
 
 def multiple_op(n):

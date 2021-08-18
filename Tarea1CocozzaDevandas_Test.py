@@ -1,5 +1,9 @@
 import math
 import random
+# ERR8 -5
+# ERR1x2 -3 Los casos negativos deben de pasar, no se esperaba test fallando
+# ERR2x2 -5 Los casos positivos tenian que probar la respuesta no solo el
+# codigo de error
 
 
 def multiple_op(n):
